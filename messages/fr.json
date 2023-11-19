@@ -1,0 +1,159 @@
+{
+  "Index": {
+    "title": "Bienvenue !"
+  },
+  "Header": {
+    "title": "Bienvenue !",
+    "visitor": "Notre visiteur",
+    "signin": "Se Connecter",
+    "signup": " Créez un Compte",
+    "contactUs": "Contactez-nous"
+  },
+  "discoverSide": {
+    "filtering": "Filtrage",
+    "city": "Ville",
+    "area": "Zone",
+    "submit": "Appliquer",
+    "priceAverege": "Prix Moyen"
+  },
+  "categorySide": {
+    "mainDepartments": "Départements Principaux",
+    "filtering": "Filtrage",
+    "city": "Ville",
+    "area": "Zone",
+    "submit": "Appliquer",
+    "priceAverege": "Prix Moyen"
+  },
+  "homeSide": {
+    "help": "Aide",
+    "suggest": "Proposez un Départ",
+    "city": "Ville",
+    "more": "Plus",
+    "priceAverege": "Prix Moyen",
+    "advice": "Conseil du Jour"
+  },
+  "leftSide": {
+    "mostView": "Les Plus Vus"
+  },
+  "forgetPassword": {
+    "forgetPassword": "Mot de Passe Oublié ?",
+    "sendMessage": "Ne vous inquiétez pas, veuillez entrer votre numéro de téléphone portable et nous vous enverrons un code de vérification par SMS.",
+    "signin": "Se Connecter"
+  },
+  "forgetPasswordVerify": {
+    "confirm": "Vérification du Téléphone Portable",
+    "enter": "Entrez le code envoyé à",
+    "notRecive": "Vous n'avez pas reçu le code ? Renvoyez après 50 secondes"
+  },
+  "login": {
+    "hello": "Bonjour ",
+    "signin": "Se Connecter",
+    "newUser": " Si vous êtes un nouvel utilisateur,",
+    "signup": " Créez un Compte",
+    "or": "Ou",
+    "forgetPassword": "Mot de Passe Oublié ?",
+    "skip": "Passer en tant qu'Invité"
+  },
+  "mobileVerify": {
+    "confirm": "Confirmer l'e-mail",
+    "sendOTP": "Le code OTP a été envoyé à l'e-mail",
+    "phoneNumber": "E-mail",
+    "notRecive": "Vous n'avez pas reçu de code ? Réenvoyer après 50 secondes",
+    "signin": "S'identifier",
+    "newPassword": "Réinitialisation du Mot de Passe",
+    "next": "Suivant"
+  },
+  "newPassword": {
+    "newPassword": "Réinitialisation du Mot de Passe",
+    "shouldNew": "Le nouveau mot de passe doit être différent de l'ancien.",
+    "next": "Suivant"
+  },
+  "newPasswordDone": {
+    "newPasswordDone": "Réinitialisation du Mot de Passe Réussie",
+    "signin": "S'identifier"
+  },
+  "RegisterScreen": {
+    "welcome": "Bienvenue",
+    "fillInFields": "Remplissez les champs suivants et créez un compte",
+    "email": "Email",
+    "firstName": "Prénom",
+    "lastName": "Nom de Famille",
+    "phoneNumber": "Numéro de Téléphone",
+    "password": "Mot de Passe",
+    "confirmPassword": "Confirmez le Mot de Passe",
+    "login": "Se Connecter"
+  },
+  "discoverPage": {
+    "discover": "Découvrir"
+  },
+  "requiredScreen": {
+    "welcome": "Bienvenue, notre visiteur",
+    "mustLogin": "Vous devez vous connecter pour accéder à notre site complet",
+    "createAccount": "Créer un Compte",
+    "login": "Se Connecter"
+  },
+  "signupDone": {
+    "congratulations": "Félicitations",
+    "accountCreated": "Votre compte a été créé avec succès",
+    "canBrowse": "Vous pouvez maintenant parcourir le site web et découvrir tous les endroits en Jordanie.",
+    "goToHome": "Aller à la Page d'Accueil"
+  },
+  "blogs": {
+    "department": "Départements",
+    "latestBlogs": "Derniers Articles"
+  },
+  "contactUsScreen": {
+    "contactUs": "Contactez-nous",
+    "haveQuestions": "Avez-vous des questions ou des commentaires ? Contactez-nous simplement !",
+    "fullName": "Nom Complet",
+    "email": "Email",
+    "phoneNumber": "Numéro de Téléphone",
+    "message": "Message",
+    "send": "Envoyer"
+  },
+  "helping": {
+    "securityForces": "Forces de Sécurité",
+    "publicSecurity": "Sécurité Publique",
+    "whatsapp": "WhatsApp",
+    "call": "Appel",
+    "ambulance": "Ambulance",
+    "tourism": "Ministère du Tourisme"
+  },
+  "privacyScreen": {
+    "privacyPolicy": "Politique de Confidentialité",
+    "usePersonalData": "1- Utilisation des Données Personnelles",
+    "privacyPolicyApplies": "Cette politique de confidentialité s'applique à toutes les données personnelles que vous nous fournissez via le site web. Cette politique vise à renforcer votre confiance en matière de confidentialité et de sécurité de vos informations personnelles.",
+    "whenEnteringUserData": "En entrant vos informations utilisateur, vous acceptez que nous puissions conserver vos informations utilisateur, soit par nous-mêmes, soit par un prestataire de services tiers traitant ces informations en notre nom. Nous pouvons utiliser vos informations utilisateur aux fins suivantes :",
+    "weMayUseYourUserData": "- Communiquer avec vous par tous les moyens (y compris par e-mail, téléphone, SMS et médias sociaux) pour vous informer des actualités et d'autres informations susceptibles de vous intéresser, sous réserve de garantir que de telles notifications sont conformes à la loi ; conserver et mettre à jour vos informations de contact si nécessaire ; obtenir votre consentement préalable volontaire comme requis.",
+    "sendPeriodicCorrespondence": "- Envoyer des correspondances périodiques (y compris des messages électroniques) concernant les spécifications, les produits, les services, les événements et les offres spéciales.",
+    "updates": "2- Mises à Jour",
+    "youCanNotifyUs": "Vous pouvez nous informer de toute mise à jour, modification ou correction que vous apportez aux informations utilisateur que nous avons collectées précédemment via le formulaire 'Contactez-nous'."
+  },
+  "profile": {
+    "editAcc": "Modifier le Compte",
+    "logout": "Se Déconnecter",
+    "deleteAcc": "Supprimer le Compte",
+    "firstName": "Prénom",
+    "lastName": "Nom de Famille",
+    "phoneNumber": "Numéro de Téléphone",
+    "email": "Email"
+  },
+  "singlePartner": {
+    "discoverNow": "Découvrez Maintenant",
+    "ifYouWantToVisit": "Si vous souhaitez visiter les endroits touristiques les plus paisibles et charmants de Jordanie, rendez-vous simplement chez ",
+    "priceRate": "Taux de Prix :",
+    "startingFrom": "À partir de",
+    "whatsapp": "WhatsApp",
+    "call": "Appel",
+    "menu": "Menu",
+    "pleaseLogin": "Veuillez vous connecter ou créer un compte pour accéder à tous les détails et méthodes de contact.",
+    "createAccount": "Créer un Compte",
+    "login": "Se Connecter",
+    "branchesAndAddresses": "Succursales et Adresses",
+    "ratings": "Évaluations"
+  },
+  "footer2": {
+    "footer2": "Tous droits réservés © au site Web Jordan Starts Here, 2023 Programmation et conception par We Can Company",
+    "contactUs": "Contactez-nous"
+  }
+}

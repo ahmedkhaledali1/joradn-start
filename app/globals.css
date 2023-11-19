@@ -1,0 +1,125 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap');
+:root {
+  @apply bg-white;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+      to bottom,
+      transparent,
+      rgb(var(--background-end-rgb))
+    )
+    rgb(var(--background-start-rgb));
+}
+.tajwal {
+  font-family: 'Tajawal', sans-serif;
+}
+@font-face {
+  font-family: 'Tajwal';
+  font-style: normal;
+  src: local(''),
+    url('https://fonts.googleapis.com/css2?family=Tajawal&display=swap')
+      format('truetype');
+}
+.my-custom-class {
+  display: flex;
+}
+@layer components {
+  .PhoneInputCountryIcon {
+    @apply w-14 h-14;
+  }
+}
+@layer components {
+  .PhoneInputCountrySelect {
+    @apply w-14;
+  }
+}
+@layer components {
+  .PhoneInputCountry {
+    @apply flex w-14;
+  }
+}
+.search .wrapper:first-child svg {
+  display: none !important;
+}
+.multi-line-ellipsis {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1em;
+  max-height: 2em;
+  /* white-space: 'pre'; */
+}
+.multi-line-title {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1em;
+  max-height: 1em;
+  /* white-space: 'pre'; */
+}
+input[type='range'] {
+  accent-color: rgb(183 28 28 / var(--tw-bg-opacity));
+  /* outline: none; */
+}
+/* .range input {
+  outline: none;
+} */
+
+.sliderValue span {
+  transform: translateX(-50%);
+  line-height: 55px;
+}
+.sliderValue span::after {
+  position: absolute;
+  left: 50%;
+  height: 45px;
+  width: 45px;
+  transform: translateX(-50%) rotate(45deg);
+  line-height: 55px;
+  content: '';
+  background-color: rgb(165, 42, 42);
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-left-radius: 50%;
+  z-index: -1;
+  color: black;
+}
+
+.myList:before {
+  content: '';
+  position: absolute;
+  top: -14px;
+  transform: translateX(-50%);
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid rgb(240 240 240 / var(--tw-bg-opacity));
+}
+.about {
+  background-color: rgba(236, 218, 188, 1);
+}
+.aboutlist:before {
+  content: '';
+  position: absolute;
+  top: -14px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-left: 15px solid transparent;
+  border-right: 15px solid transparent;
+  border-bottom: 15px solid rgba(236, 218, 188, 1);
+}
+
+.brown {
+  color: brown;
+}
+.custom-phone-input .PhoneInputCountry {
+  order: 100;
+}

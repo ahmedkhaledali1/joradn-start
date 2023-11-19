@@ -1,0 +1,159 @@
+{
+  "Index": {
+    "title": "Welcome!"
+  },
+  "Header": {
+    "title": "Welcome!",
+    "visitor": "Our Visitor",
+    "signin": "Sign In",
+    "signup": " Create an Account",
+    "contactUs": "Contact Us"
+  },
+  "discoverSide": {
+    "filtering": "Filtering",
+    "city": "City",
+    "area": "Area",
+    "submit": "Apply",
+    "priceAverege": "Average Price"
+  },
+  "categorySide": {
+    "mainDepartments": "Main Departments",
+    "filtering": "Filtering",
+    "city": "City",
+    "area": "Area",
+    "submit": "Apply",
+    "priceAverege": "Average Price"
+  },
+  "homeSide": {
+    "help": "Help",
+    "suggest": "Suggest a Start",
+    "city": "City",
+    "more": "More",
+    "priceAverege": "Average Price",
+    "advice": "Today's Advice"
+  },
+  "leftSide": {
+    "mostView": "Most Viewed"
+  },
+  "forgetPassword": {
+    "forgetPassword": "Forgot Password?",
+    "sendMessage": "Don't worry, please enter your mobile number and we'll send you a verification code via SMS.",
+    "signin": "Sign In"
+  },
+  "forgetPasswordVerify": {
+    "confirm": "Mobile Verification",
+    "enter": "Enter the code sent to",
+    "notRecive": "Didn't receive the code? Resend after 50 seconds"
+  },
+  "login": {
+    "hello": "Hello ",
+    "signin": "Sign In",
+    "newUser": " If you're a new user,",
+    "signup": " Create an Account",
+    "or": "Or",
+    "forgetPassword": "Forgot Password?",
+    "skip": "Skip as a Guest"
+  },
+  "mobileVerify": {
+    "confirm": "Confirm Email",
+    "sendOTP": "OTP code has been sent to Email",
+    "phoneNumber": "Email",
+    "notRecive": "Did not receive a code? Resend after 50 seconds",
+    "signin": "Sign in",
+    "newPassword": "Reset Password",
+    "next": "Next"
+  },
+  "newPassword": {
+    "newPassword": "Reset Password",
+    "shouldNew": "The new password must be different from the previous one.",
+    "next": "Next"
+  },
+  "newPasswordDone": {
+    "newPasswordDone": "Password Reset Successful",
+    "signin": "Sign in"
+  },
+  "RegisterScreen": {
+    "welcome": "Welcome",
+    "fillInFields": "Fill in the following fields and create an account",
+    "email": "Email",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "login": "Sign In"
+  },
+  "discoverPage": {
+    "discover": "Discover"
+  },
+  "requiredScreen": {
+    "welcome": "Welcome, our visitor",
+    "mustLogin": "You must sign in to access our full website",
+    "createAccount": "Create an Account",
+    "login": "Sign In"
+  },
+  "signupDone": {
+    "congratulations": "Congratulations",
+    "accountCreated": "Your account has been successfully created",
+    "canBrowse": "You can now browse the website and discover all the places in Jordan.",
+    "goToHome": "Go to Homepage"
+  },
+  "blogs": {
+    "department": "Departments",
+    "latestBlogs": "Latest Articles"
+  },
+  "contactUsScreen": {
+    "contactUs": "Contact Us",
+    "haveQuestions": "Do you have any questions or feedback? Just contact us!",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "message": "Message",
+    "send": "Send"
+  },
+  "helping": {
+    "securityForces": "Security Forces",
+    "publicSecurity": "Public Security",
+    "whatsapp": "WhatsApp",
+    "call": "Call",
+    "ambulance": "Ambulance",
+    "tourism": "Ministry of Tourism"
+  },
+  "privacyScreen": {
+    "privacyPolicy": "Privacy Policy",
+    "usePersonalData": "1- Use of Personal Data",
+    "privacyPolicyApplies": "This privacy policy applies to all personal data you provide to us through the website. This policy is developed to enhance your confidence in the privacy and security of your personal information.",
+    "whenEnteringUserData": "By entering your user information, you agree that we may retain your user information, either by us or by a third-party service provider processing this information on our behalf. We may use your user information for the following purposes:",
+    "weMayUseYourUserData": "- Communicating with you through any means (including email, phone, text messages, and social media) to notify you of news and other information of interest, subject to ensuring that such notifications comply with the law; maintaining and updating your contact information as needed; obtaining your prior voluntary consent as required.",
+    "sendPeriodicCorrespondence": "- Sending periodic correspondences to you (including email messages) regarding specifications, products, services, events, and special offers.",
+    "updates": "2- Updates",
+    "youCanNotifyUs": "You can inform us of any updates, modifications, or corrections you make to user information that we have previously collected through the 'Contact Us' form."
+  },
+  "profile": {
+    "editAcc": "Edit Account",
+    "logout": "Log Out",
+    "deleteAcc": "Delete Account",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phoneNumber": "Phone Number",
+    "email": "Email"
+  },
+  "singlePartner": {
+    "discoverNow": "Discover Now",
+    "ifYouWantToVisit": "If you want to visit the most peaceful and charming tourist places in Jordan, just visit ",
+    "priceRate": "Price Rate:",
+    "startingFrom": "Starting from",
+    "whatsapp": "WhatsApp",
+    "call": "Call",
+    "menu": "Menu",
+    "pleaseLogin": "Please sign in or create an account to access all details and contact methods.",
+    "createAccount": "Create an Account",
+    "login": "Sign In",
+    "branchesAndAddresses": "Branches and Addresses",
+    "ratings": "Ratings"
+  },
+  "footer2": {
+    "footer2": "All rights reserved © for the Jordan Starts Here website, 2023 Programming and design by ",
+    "contactUs": "Contact Us"
+  }
+}
